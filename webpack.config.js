@@ -1,3 +1,4 @@
+// Ref: https://betterprogramming.pub/react-with-rails-2022-bd28e1fcd355#ad0a
 const path = require('path');
 const webpack = require('webpack');
 
